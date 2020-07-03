@@ -10,4 +10,4 @@ I present **TicketAdvisor**, an expert system which asks users' requirements and
 
 This repository also includes a database of full 12306 train timetable in China (obsolete) that I searched from the Internet, for your reference. #中国铁路12306火车时刻表（已过期）
 
-![1](.\README.assets\1.jpg)
+![1](README.assets/1.jpg)
